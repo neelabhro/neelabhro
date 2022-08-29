@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! 👋
 
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:neelabhro16171@iiitd.ac.in)](mailto:neelabhro16171@iiitd.ac.in)
